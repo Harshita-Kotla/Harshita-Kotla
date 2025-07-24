@@ -7,10 +7,10 @@
 - 💡 I love building creative & responsive web applications
 - 🌱 Currently learning: **Spring Boot, MongoDB, Angular**
 - 🛠️ Tech Stack: HTML, CSS, JavaScript, Angular, Java, Spring Boot, MongoDB
-- 📫 How to reach me: [harshita@example.com](mailto:harshita@example.com)
+- 📫 How to reach me: [harshitakotla1316@example.com](mailto:harshita@example.com)
 
 ## 💼 My Projects
-- 🔗 [Harshita’s Portfolio](https://github.com/Harshita-Kotla/harshita-kotla-web)
+- 🔗 [Harshita’s Portfolio](https://harshita-kotla-web.vercel.app/)
 
 
 ## 🧠 Skills
