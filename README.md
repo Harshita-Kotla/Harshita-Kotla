@@ -17,7 +17,6 @@
 - 💻 Frontend: HTML, CSS, Angular
 - ⚙️ Backend: Java, Spring Boot
 - 🗄️ Database: MongoDB, SQL
-- 🎨 UI Tools: Figma, Adobe XD
 
 ## 📊 GitHub Stats
 ![Harshita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshita-Kotla&show_icons=true&theme=radical)
